@@ -9,6 +9,7 @@ Installation
 4. Run `npm start` to start the application.
 
 Usage
+
 When the application is launched, the main page displays three buttons: "All," "Breakfast," "Lunch," and "Shakes." Users can click on these buttons to filter the menu by category.
 
 Contributing
