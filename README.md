@@ -1,4 +1,4 @@
-#menu-project
+# Menu-project
 
 This project is a website that displays the menu of a restaurant. The menu is divided into three categories: breakfast, lunch, and shakes.
 
